@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/higashiyamatos-weather/static/css/main.964fdded.css",
+    "main.js": "/higashiyamatos-weather/static/js/main.789e61d5.js",
+    "static/js/787.cbce53cb.chunk.js": "/higashiyamatos-weather/static/js/787.cbce53cb.chunk.js",
+    "index.html": "/higashiyamatos-weather/index.html",
+    "main.964fdded.css.map": "/higashiyamatos-weather/static/css/main.964fdded.css.map",
+    "main.789e61d5.js.map": "/higashiyamatos-weather/static/js/main.789e61d5.js.map",
+    "787.cbce53cb.chunk.js.map": "/higashiyamatos-weather/static/js/787.cbce53cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.789e61d5.js"
+  ]
+}
